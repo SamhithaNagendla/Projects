@@ -1,16 +1,16 @@
-#Web Data Management Labs
+# Web Data Management Labs
 Most of the projects will be done using HTML, JavaScript, PHP, SQL, Java and XQuery.
 The software used for the projects is open-source, free, platform independent, and well-suited for Java. 
 You can do most of the projects on your own PC/laptop under any platform (Linux, MAC OS X, MS Windows, etc)
 
-#Table of Contents
+# Table of Contents
 Getting Started
 Motivation
 List of Projects
 Key Learnings
 References
 
-#Getting Started
+# Getting Started
 These instructions will get you to set up the environment on your local machine to do these projects.
 #
 XAMPP web server
