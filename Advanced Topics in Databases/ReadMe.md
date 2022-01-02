@@ -17,8 +17,11 @@ Projects were done on the Expanse cluster at SDSC (San Diego Supercomputer Cente
 The labs were completed as a part of the Advanced Database Topics (CSE 6331) course at The University of Texas at Arlington. The course is well structured to understand the concepts of Advanced Database Topics.
 
 # List of Projects
-Project 1:A Simple Map-Reduce Program. 
-Description: A simple map-reduce program on Hadoop for graph processing.
+
+Project 1:
+	A Simple Map-Reduce Program. 
+Description: 
+	A simple map-reduce program on Hadoop for graph processing.
 	
 Project 2:Matrix Multiplication on Map Reduce.
 Description:To develop a Map-Reduce program on Hadoop to multiply two sparse matrices.
