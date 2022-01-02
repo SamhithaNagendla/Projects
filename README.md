@@ -1,6 +1,6 @@
 # Projects
 
-Web Data Management:Below projects uses HTML, JavaScript, PHP, SQL, Java and XQuery.
+# Web Data Management:Below projects uses HTML, JavaScript, PHP, SQL, Java and XQuery.
 
 1:A JavaScript Game
 
@@ -20,9 +20,7 @@ Web Data Management:Below projects uses HTML, JavaScript, PHP, SQL, Java and XQu
 
 
 
-
-
-Distributed Systems:A Desktop application to identify mis-spelled words using Python. Helped in understanding below functionalities of distributed systems. 
+# Distributed Systems:A Desktop application to identify mis-spelled words using Python. Helped in understanding below functionalities of distributed systems. 
 
 1:Client Server Programming using sockets.
 
@@ -42,9 +40,7 @@ Distributed Systems:A Desktop application to identify mis-spelled words using Py
 
 
 
-
-
-Data Mining:Below projects uses Python.
+# Data Mining:Below projects uses Python.
 
 1:Exploratory Analysis over Covid19 Dataset
 
@@ -54,9 +50,7 @@ Data Mining:Below projects uses Python.
 
 
 
-
-
-Secure Programming:Below labs helped in understanding and finding the bugs in software, fix the bugs, and design software, so that it has fewer security problems.
+# Secure Programming:Below labs helped in understanding and finding the bugs in software, fix the bugs, and design software, so that it has fewer security problems.
 
 1:Shellshock Attack
 
@@ -78,7 +72,7 @@ Secure Programming:Below labs helped in understanding and finding the bugs in so
 
 
 
-Advanced Topics in Databases:Below projects uses Map-Reduce, Apache Spark, Apache Pig, Apache Hive and Apache Spark GraphX.
+# Advanced Topics in Databases:Below projects uses Map-Reduce, Apache Spark, Apache Pig, Apache Hive and Apache Spark GraphX.
 
 1:A Simple Map-Reduce Program. 
 
