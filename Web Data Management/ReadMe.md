@@ -42,7 +42,6 @@ Note: If you get the error message on Windows: "The program can not start becaus
 The labs were completed as a part of the Web Data Management (CSE 5335) course at The University of Texas at Arlington. The course is well structured to understand the concepts of Web Data Management.
 
 # List of Projects
-#
 Project 1:A JavaScript Game
 
 Description:To write a JavaScript file pong.js, used in the file pong.html (after you click on this link, you can get the HTML source if you right-click and use View Page Source). Your code must implement the following actions:
