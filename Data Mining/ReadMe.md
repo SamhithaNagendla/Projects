@@ -9,13 +9,13 @@ Project 1 : Exploratory Analysis over Covid19 Dataset
 
 Description : To analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods. It helps determine how best to manipulate data sources to get the answers you need.
 
-
+# 
 
 Project 2 : Classification - Decision Tree, Naive Bayes, Nearest Neighbors
 
 Description : Used cardio and titanic datasets to demonstrate classifications using Decision Tree, Naive Bayes and Nearest Neighbors.
 
-
+# 
 
 Project 3 : Association Analysis - Apriori Algorithm
 
