@@ -23,43 +23,43 @@ Project 1 : A Simple Map-Reduce Program.
 Description : A simple map-reduce program on Hadoop for graph processing.
 	
 
-
+# 
 Project 2 : Matrix Multiplication on Map Reduce.
 
 Description : To develop a Map-Reduce program on Hadoop to multiply two sparse matrices.
 
 
-
+# 
 Project 3 : Graph Processing using Map - Reduce.
 
 Description : To develop a graph analysis program using Map-Reduce.
 
 
-
+# 
 Project 4 : KMeans Clustering on Spark.
 
 Description : To develop a data analysis program using Apache Spark.
 
 
-
+# 
 Project 5 : Graph Processing on Spark.
 
 Description : To develop a graph analysis program using Apache Spark.
 
 
-
+# 
 Project 6 : Graph Analysis using Pig.
 
 Description : To develop a simple graph analysis program using Apache Pig.
 
 
-
+# 
 Project 7 : Graph Analysis using Hive.
 
 Description : To develop a simple graph analysis program using Apache Hive.
 
 
-
+# 
 Project 8 : Graph Partition using GraphX.
 
 Description :To write the graph partition problem using Pregel on Spark GraphX
