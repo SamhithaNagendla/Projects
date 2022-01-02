@@ -13,8 +13,11 @@ References
 These instructions will get you to set up the environment on your local machine to perform these attacks.
 
 Step 1: Create a new VM in Virtual Box.
+
 Step 2: Download the image SEEDUbuntu-16.04-32bit.zip from here.
+
 Step 3: Use the Virtual Machine Hard Disk file to setup your VM.
+
 Step 4: Configure the VM.
 
 Refer a document available in the Setup folder.
