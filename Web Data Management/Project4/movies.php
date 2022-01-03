@@ -32,7 +32,7 @@ sendRequest( urlencode($_GET["form-input"]) );
 //To display search results as an itemized clickable list of movie titles along with their years they were released.
 function sendRequest( $query )
 {
-	$homepage = file_get_contents( "https://api.themoviedb.org/3/search/movie?api_key=a72a43294b54711320e4c25ffce46245&query=".$query);
+	$homepage = file_get_contents( "https://api.themoviedb.org/3/search/movie?api_key=".$query);
 	$json = json_decode($homepage,true);
 	$movieList = $json['results'];
 	if(count($movieList) == 0)
@@ -66,7 +66,7 @@ if(isset($_GET["id"]))
 //To display the poster of the movie as an image, the movie title, its genres (separated by comma), the movie overview and the names of the top five cast members.
 function SendDetailRequest($mId)
 {
-	$moviePageLink = "https://api.themoviedb.org/3/movie/".$mId."?api_key=a72a43294b54711320e4c25ffce46245" ;
+	$moviePageLink = "https://api.themoviedb.org/3/movie/".$mId."?api_key=" ;
 	$moviePageContents = file_get_contents($moviePageLink);
 	$movieDetails = json_decode($moviePageContents, true);
 	if(isset($movieDetails['release_date']) )
@@ -107,7 +107,7 @@ function SendDetailRequest($mId)
 		{
 			printf("Movie Summary is unavailable!!</div>");
 		}
-	$creditsPageLink = "https://api.themoviedb.org/3/movie/".$mId."/credits?api_key=a72a43294b54711320e4c25ffce46245" ;
+	$creditsPageLink = "https://api.themoviedb.org/3/movie/".$mId."/credits?api_key=" ;
 	$creditPageContents = file_get_contents($creditsPageLink);
 	$creditDetails = json_decode($creditPageContents, true);
 	Printf("<br/><div id=\"movieCast\">"."<h4>Movie Maximum Top 5 Cast Members: Actor Name</h4>");
