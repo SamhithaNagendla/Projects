@@ -42,8 +42,8 @@ require_once 'demo-lib.php';
 demo_init(); // this just enables nicer output
 require_once 'DropboxClient.php';
 $dropbox = new DropboxClient( array(
-	'app_key' => "itj5f7p4tqlpve9",	
-	'app_secret' => "vvd0te3wz6gjzti",
+	'app_key' => "",	
+	'app_secret' => "",
 	'app_full_access' => false,
 ) );
 //Dropbox will redirect the user here
