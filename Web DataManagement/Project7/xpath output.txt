@@ -1,0 +1,40 @@
+/*
+Student Name: Samhitha Nagendla (sxn7208)
+File Name: xpath output
+Description: Output of xpath.java program
+*/
+
+Titles of all MATH courses that are taught in room LIB 204:
+  XPath query:
+    root/course[subj='MATH'][place/room='204']/title
+  Result:
+    Calculus I
+    Calculus I
+    Calculus II
+    Calculus II
+    Calculus II
+    Introduction to Analysis I
+    Complex Analysis
+    Advanced Calculus
+    Geometry
+    Probability
+    Topics in Advanced AnalysisII
+    Algebraic Structures
+    Topics In Computer Theory
+
+Instructor name who teaches MATH 412:
+  XPath query:
+    root/course[subj='MATH'][crse='412']/instructor
+  Result:
+    Mayer
+
+Titles of all courses taught by Wieting:
+  XPath query:
+    root/course[instructor='Wieting']/title
+  Result:
+    Calculus II
+    Introduction to Analysis I
+    Introduction to Analysis II
+    Geometry
+    Probability
+    Ornamental Art

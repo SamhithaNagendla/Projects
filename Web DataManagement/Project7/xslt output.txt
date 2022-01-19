@@ -1,0 +1,8 @@
+/*
+Student Name: Samhitha Nagendla (sxn7208)
+File Name: xslt output
+Description: Output of xslt.java program along with math.xhtml file generated and opened in default browser.
+*/
+
+Transforming the XML file reed.xml to display all MATH courses in Reed College to XHTML using XSLT is completed successfully!!
+ math.xhtml file is created in C:/Users/samhi/Documents/UTA Classes/CSE 5335 Web Data Management -Professor Fagaras/All Assignments/Assignment7 file location.
